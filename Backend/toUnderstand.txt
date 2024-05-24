@@ -1,0 +1,6 @@
+bcrypt : It is used for hashing the password.
+cloudinary :It is used for the selecting the type of file to be uploaded like .jpeg,.jpg etc.
+cookie-parser : It is used for storing the cookies.
+cors : It is used to connect front-end and back-end.
+dotenv : to store some environmental variable.
+jsonwebtoken :it is created when user login to store the data into cookies.
